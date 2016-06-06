@@ -1,2 +1,2 @@
 # hello-world
-Arduino
+Arduino beginner who likes analog devices.
